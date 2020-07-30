@@ -7,9 +7,11 @@ A collection of algorithms in python as boiler plates for competitive programmin
 * Heap
 
 ### Pathfinding
+* Bellman Ford
 * Breath First Search (BFS)
 * Dijkstra's Shortest path
 * Flood fill
+* Floyd Warshall
 * Minimax
 
 ### Sorting

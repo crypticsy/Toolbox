@@ -8,14 +8,13 @@ def CreateClusters(cost):
         i = order.pop(0)
 
         if i[0] not in tree and i[1] not in tree:       #When the nodes aren't in any group
-            tree[i[0]] = gcount
-            tree[i[1]] = gcount
+            tree[i[0]],tree[i[1]] = gcount,gcount
             group[gcount] = [i[0],i[1]]
             gcount+=1
 
 
         elif i[0] not in tree or i[1] not in tree:                  #when one of the node is in a group
-            temp,tempo = (tree[i[1]],i[0]) if i[0]not in tree else (tree[i[0]],i[1]) 
+            temp, tempo = (tree[i[1]],i[0]) if i[0]not in tree else (tree[i[0]],i[1]) 
             tree[tempo] = temp
             group[temp].append(tempo)
 
@@ -30,7 +29,7 @@ def CreateClusters(cost):
             group[max_node_key]+= group[min_node_key]
             group.pop(min_node_key)
 
-        if len(group)+total-len(tree) == numOfClusters:
+        if len(group) + total - len(tree) == numOfClusters:
             break
 
 
