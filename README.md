@@ -12,6 +12,7 @@ A collection of algorithms in python as boiler plates for competitive programmin
 * Dijkstra's Shortest path
 * Flood fill
 * Floyd Warshall
+* Johnson's algorithm
 * Minimax
 
 ### Sorting

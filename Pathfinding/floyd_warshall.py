@@ -25,6 +25,9 @@ def floydWarshall():        #useful for cases with negative weights
                 if i!=j and i!=a and j!=a:      # cases where the co-ord isn't diagonal, vertical or horizontal in the matrix
                     cost[(i,j)] = min(cost[(i,j)], cost[(i,a)] + cost[(a,j)] )
 
+    for a in edges:
+        if cost[(a,a)] < 0 : print("Graph contains negative cycle")
+
 
 
 
