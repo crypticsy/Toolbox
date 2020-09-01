@@ -16,5 +16,5 @@ A collection of algorithms in python as boiler plates for competitive programmin
 * Minimax
 
 ### Sorting
-* Manhattan Distance
+* Closest Pair of Points
 * Mergesort
