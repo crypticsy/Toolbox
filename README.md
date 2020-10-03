@@ -1,4 +1,5 @@
-# CookBook
+# Toolbox
+
 A collection of algorithms in python as boiler plates for competitive programming.
 
 
