@@ -7,6 +7,9 @@ A collection of algorithms in python as boiler plates for competitive programmin
 * Clustering
 * Heap
 
+### Graphs
+* Detecting cycles (through DFS)
+
 ### Pathfinding
 * Bellman Ford
 * Breath First Search (BFS)
