@@ -15,7 +15,7 @@ A collection of algorithms in python as boiler plates for competitive programmin
 * [Breath First Search (BFS)](./Pathfinding/breadth_first_search.py)
 * [Dijkstra's Shortest path](./Pathfinding/dijkstra's_shortest_path.py)
 * [Flood fill](./Pathfinding/flood_fill.py)
-* [Floyd Warshall](./Pathfinding/floyd_warshall/py)
+* [Floyd Warshall](./Pathfinding/floyd_warshall.py)
 * [Johnson's algorithm](./Pathfinding/johnsons_algo.py)
 * [Minimax](./Pathfinding/minmax.py)
 
