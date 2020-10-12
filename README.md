@@ -22,3 +22,6 @@ A collection of algorithms in python as boiler plates for competitive programmin
 ### Sorting
 * [Closest Pair of Points](./Sorting/closest_pair_of_points.py)
 * [Mergesort](./Sorting/mergesort.py)
+
+### Starter Kits
+* [Codingame](./Starter_Kit/codingame.py)
