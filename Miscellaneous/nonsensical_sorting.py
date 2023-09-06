@@ -25,7 +25,7 @@ def bogo_sort(data):
         if is_sorted(permuation):
             return permuation
 
-# print(bogo_sort(test.copy()))                          # Result : [5, 10, 20, 15, 25, 5]
+# print(bogo_sort(test.copy()))                          # Result : [5, 10, 15, 20, 25]
 
 
 
