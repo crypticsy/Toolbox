@@ -19,7 +19,7 @@ def merge_sort(sort_list):
         
 
 '''
-#Testing
+# Test
 
 final_order = merge_sort([199,4,51,24,2,3,42,1,1])
 print(final_order)

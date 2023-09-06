@@ -7,8 +7,10 @@ A collection of algorithms in python as boiler plates for competitive programmin
 * [Clustering](./Data_Structures/clustering.py)
 * [Heap](./Data_Structures/heap.py)
 
+
 ### Graphs
 * [Detecting cycles (through DFS)](./Graphs/detect_cycle_dfs.py)
+
 
 ### Pathfinding
 * [Bellman Ford](./Pathfinding/bellman_ford.py)
@@ -19,9 +21,15 @@ A collection of algorithms in python as boiler plates for competitive programmin
 * [Johnson's algorithm](./Pathfinding/johnsons_algo.py)
 * [Minimax](./Pathfinding/minmax.py)
 
+
 ### Sorting
 * [Closest Pair of Points](./Sorting/closest_pair_of_points.py)
 * [Mergesort](./Sorting/mergesort.py)
 
+
 ### Starter Kits
 * [Codingame](./Starter_Kit/codingame.py)
+
+
+### Miscellaneous
+* [Nonsensical Sorting Algorithms](./Miscellaneous/nonsensical_sorting.py)
