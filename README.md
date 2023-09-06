@@ -1,6 +1,6 @@
 # Toolbox
 
-A collection of algorithms in python as boiler plates for competitive programming.
+A collection of algorithms in python as boiler plates for efficient programming.
 
 
 ### Data Structures
